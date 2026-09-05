@@ -10,7 +10,7 @@ It’s a beginner Python project where you create a character, perform daily act
 - Bad actions (smoke, drink, fever, etc.) reduce stats
 - Loop system: keeps asking “What did you do today?” until you quit or lose
 - Win/Lose conditions (health or happiness reaching zero)
-
+#Never give up on your dream.
 ## How to Run
 1. Make sure you have Python installed (3.x recommended).
 2. Download or clone this repository.
@@ -18,4 +18,4 @@ It’s a beginner Python project where you create a character, perform daily act
    ```bash
    python Life_simulator.py
 
-#Never give up on your dream.
+
