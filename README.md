@@ -7,7 +7,7 @@ It’s a beginner Python project where you create a character, perform daily act
 - Character creation (name and age)
 - Starting stats: Health, Happiness, Money, Intelligence, Social
 - Good actions (study, exercise, work, etc.) improve stats
-- Bad actions (smoke, drink, fever, etc.) reduce stats
+- Bad actions (scrolling,video games , fever, etc.) reduce stats
 - Loop system: keeps asking “What did you do today?” until you quit or lose
 - Win/Lose conditions (health or happiness reaching zero)
 #Never give up on your dream.
